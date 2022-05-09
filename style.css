@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+.boxes {
+    display:inline-block;
+}
+.box {
+    background-color: yellow;
+    border-radius: 10px;
+    margin-bottom: 8px;
+    width: 100px;
+    height: 100px;
+}
+.an {
+    background-color: orange;
+}
+
+.buttons {
+    display: inline-block;
+    position: fixed;
+    top: 4px;
+    right: 4px;
+}
